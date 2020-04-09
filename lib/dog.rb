@@ -10,3 +10,4 @@ end
 
 "Lassie" = Dog.new
 Lassie.name = "Lassie"
+Lassie.name
