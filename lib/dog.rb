@@ -8,6 +8,6 @@ class Dog
   end
 end
 
-"Lassie" = Dog.new
-Lassie.name = "Lassie"
-Lassie.name
+# "Lassie" = Dog.new
+# Lassie.name = "Lassie"
+# Lassie.name
